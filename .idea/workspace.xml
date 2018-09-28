@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="85d81699-2c12-4be0-8c7f-d9bd2d513f9f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -243,7 +242,11 @@
       <option name="presentableId" value="Default" />
       <updated>1538142303991</updated>
       <workItem from="1538142305735" duration="12632000" />
+<<<<<<< Updated upstream
       <workItem from="1538166050373" duration="3535000" />
+=======
+      <workItem from="1538166050373" duration="3689000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="Add Frist --">
       <created>1538166094754</created>
@@ -273,11 +276,40 @@
       <option name="project" value="LOCAL" />
       <updated>1538169533275</updated>
     </task>
+<<<<<<< Updated upstream
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="16167000" />
+=======
+    <task id="LOCAL-00005" summary="Add  Componentes">
+      <created>1538169600834</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538169600834</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add  props">
+      <created>1538169662466</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538169662466</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add  stage">
+      <created>1538169712097</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1538169712097</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16321000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -317,7 +349,14 @@
     <MESSAGE value="Add Inicio 001" />
     <MESSAGE value="Add Conceptos Basicos 001" />
     <MESSAGE value="Add Introduccion a jsk 001" />
+<<<<<<< Updated upstream
     <option name="LAST_COMMIT_MESSAGE" value="Add Introduccion a jsk 001" />
+=======
+    <MESSAGE value="Add  Componentes" />
+    <MESSAGE value="Add  props" />
+    <MESSAGE value="Add  stage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add  stage" />
+>>>>>>> Stashed changes
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

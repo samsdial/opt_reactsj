@@ -2,7 +2,18 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import logoOPT from './logo_optime.svg';
 import './App.css';
-
+/*Classic Function*/
+/*function Hello (props) {
+ return <h2>{props.title}</h2>
+ }*/
+/*Arrow functions sintaxis */
+//const Hello = (props) => <h2>{props.title}</h2>
+/*ECMas 13*/
+/*class Hello extends Component{
+    render (){
+        return <h2>{this.props.title}</h2>
+    }
+}*/
 
 
 class App extends Component {
@@ -18,7 +29,7 @@ class App extends Component {
               </header>
               <section className="content">
                   <div className="aligner_item">
-
+                      {/*<Hello title="Hola Optime"/>*/}
                   </div>
               </section>
               <footer className="App-footer">
