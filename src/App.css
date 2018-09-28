@@ -53,6 +53,8 @@ section{
 ul.text_left li{
   margin-bottom: 5px;
 }
+.pre1{border:1px solid #ccc;padding:20px;margin:12px 0 10px;font-size:0,7em;
+  color: white; background: black; text-align: left}
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
