@@ -20,53 +20,20 @@ class App extends Component {
                   <div className="aligner_item">
                       <h3>¿Qué es React?</h3>
                       <h4>
-                          Conceptos Básicos
+                          Introduccion a jsk
                       </h4>
-                      <ul className="text_left">
-                          <li>Componentes</li>
-                          <li>Props</li>
-                          <li>State</li>
-                      </ul>
+                      <a href="https://babeljs.io/repl/"> BABLE repl</a>
                       <p>
-                          librería de javascript para crear interfaces de usuario.
                           <br/>
                           Origen Facebook
                           Liberada en GitBut 2013
                       </p>
-                      <h4> Caracteristicas </h4>
-                      <p>
-                          Declarativo y basado en componentes
-                          indicamos el QUÉ, y no el CÓMO
-                      </p>
+
                       <pre class="pre1">
-                          // imperativo
-                          ve a la Cocina <br/>
-                          Abre la nevera <br/>
-                          Coge el pollo de la nevera <br/>
-                          ... // más pasos <br/>
-                          prepara la mesa <br/>
-                          lleva la comida a la mesa <br/>
+                          const element = &lt;h1&gt;hello, world&lt;/h1&gt;; <br/>
+                          const image = &lt;img src= /img&gt;; <br/>
 
-                          //Declarativo <br/>
-                          Quiero cenar pollo <br/>
                         </pre>
-                        <h4>Basado en Componentes</h4>
-                      <ul className="text_left">
-                          <li>Divide la interfaz de - a +</li>
-                          <li>Puedes crear nuevos componentes</li>
-                          <li>Cada componente encapsula su estado</li>
-                          <li>Codigo reusable, pequeño y mantenible</li>
-                      </ul>
-                      <h4>La programación Reactiva</h4>
-                      <ul className="text_left">
-                          <li>Reaccciona según el cambio de estado</li>
-                      </ul>
-
-                      <h4>Virutal DOM u diffing</h4>
-                      <div className="text_left">
-                          Genera una copia del árbol de elementos de DOM para hacer los minimos cambios necesarios para reflejar el estado de nuestros componentes.
-                      </div>
-
                   </div>
               </section>
               <footer className="App-footer">
