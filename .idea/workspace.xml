@@ -21,8 +21,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="534">
+              <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -96,7 +96,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/Conceptos--Basicos" />
+        <entry key="$PROJECT_DIR$" value="feature/introduccion-jsk" />
       </map>
     </option>
   </component>
@@ -243,7 +243,7 @@
       <option name="presentableId" value="Default" />
       <updated>1538142303991</updated>
       <workItem from="1538142305735" duration="12632000" />
-      <workItem from="1538166050373" duration="3452000" />
+      <workItem from="1538166050373" duration="3535000" />
     </task>
     <task id="LOCAL-00001" summary="Add Frist --">
       <created>1538166094754</created>
@@ -266,11 +266,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538169032313</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Introduccion a jsk 001">
+      <created>1538169533275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1538169533275</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16084000" />
+    <option name="totallyTimeSpent" value="16167000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -304,10 +311,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Add Frist --" />
     <MESSAGE value="Add Inicio 001" />
     <MESSAGE value="Add Conceptos Basicos 001" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Conceptos Basicos 001" />
+    <MESSAGE value="Add Introduccion a jsk 001" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Introduccion a jsk 001" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -422,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="534">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
