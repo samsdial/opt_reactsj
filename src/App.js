@@ -13,7 +13,7 @@ class App extends Component {
                   <div className="aligner_item">
                     <img src={logo} className="App-logo App-logo-react" alt="logo" />
                     <h2> Bienvenidos a el curso de Reactjs</h2>
-                    <h2> Props</h2>
+                    <h2> Stage</h2>
                   </div>
               </header>
               <section className="content">
