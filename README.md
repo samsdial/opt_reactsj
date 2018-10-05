@@ -89,7 +89,7 @@ Js
 ``` javascript
 	conts element = <h1>hello, world</h1>
 ```
-JSK Transpilado
+JSK transpilador babel
 ``` javascript
 	"use strict";
 	var element = React.createElement (
